@@ -1,24 +1,8 @@
 <img width="1790" alt="Screenshot 2022-10-10 at 17 47 42" src="https://user-images.githubusercontent.com/23308191/194905812-38538747-b282-437b-a57a-796814330a61.png">
 
 # Description
-A simple dashboard for viewing a system's information and processes
+A simple dashboard for viewing a system's information and processes. Made with SvelteKit
 
-
-# create-svelte
-
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 
 ## Developing
 
