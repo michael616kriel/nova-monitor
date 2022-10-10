@@ -1,7 +1,7 @@
 <img width="1790" alt="Screenshot 2022-10-10 at 17 47 42" src="https://user-images.githubusercontent.com/23308191/194905812-38538747-b282-437b-a57a-796814330a61.png">
 
 # Description
-A simple dashboard for viewing a system's information and process
+A simple dashboard for viewing a system's information and processes
 
 
 # create-svelte
